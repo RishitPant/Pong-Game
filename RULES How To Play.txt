@@ -1,0 +1,13 @@
+For Player Vs A.I (Filename: Pong_1player.py)
+
+1) Use arrow keys to move your player (Up and Down)
+2) Sound is included so you can play with speaker on
+
+For Player Vs Player (Filename: Pong2_player.py)
+
+1) Green Player can move with arrow keys (Up and Down)
+2) Red Player can move with keys: w, s (Up and Down)
+
+HOW TO RUN:
+Open command prompt at your game file location
+Then type filename.py and hit enter to run your game!
